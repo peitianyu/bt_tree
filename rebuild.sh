@@ -10,6 +10,6 @@ fi
 
 cd build && cmake  -G Ninja .. && ninja
 
-./all_tests
+./behavior_tree
 
 cd ..
