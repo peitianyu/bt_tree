@@ -120,11 +120,11 @@ Pei tianyu – [wechat](pty2182) – 1216582161@qq.com
 
 Distributed under the MIT license. See LICENSE for more information.
 
-[https://github.com/peitianyu/tt_bt](https://github.com/peitianyu/tt_bt)
+[https://github.com/peitianyu/bt_tree](https://github.com/peitianyu/bt_tree)
 
 ## Contributing
 
-1. Fork it (<https://github.com/peitianyu/tt_bt/fork>)
+1. Fork it (<https://github.com/peitianyu/bt_tree/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
